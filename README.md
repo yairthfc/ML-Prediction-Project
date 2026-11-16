@@ -1,4 +1,4 @@
-# Hackathon ML Prediction Project – Match & Importance Ratings
+# Hackathon ML Prediction Project: Match & Importance Ratings
 
 This repository contains our solution for a hackathon machine learning task aimed at **predicting compatibility ("match") and personality importance ratings** between participants, based on anonymized profile data.
 
@@ -8,7 +8,7 @@ We built, trained, and evaluated models for two subtasks:
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Our solution includes:
 - Data preprocessing and profiling using `pandas-profiling`
@@ -18,7 +18,7 @@ Our solution includes:
 
 ---
 
-## 📁 File Structure & Descriptions
+## File Structure & Descriptions
 
 | Path | Description |
 |------|-------------|
@@ -31,7 +31,7 @@ Our solution includes:
 
 ---
 
-## 🧪 Code Breakdown
+## Code Breakdown
 
 | File | Purpose |
 |------|---------|
@@ -49,7 +49,7 @@ Our solution includes:
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Install dependencies:
    ```bash
@@ -57,7 +57,7 @@ Our solution includes:
 
 ---
 
-## 📈 Project Results
+## Project Results
 
 Detailed performance metrics and conclusions can be found in:
 - `project.pdf`
@@ -67,9 +67,9 @@ We explored multiple modeling strategies before finalizing our submission, balan
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions or collaboration, feel free to reach out:
 
-- 📧 Email: yairthfc@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/yairmahfud](https://www.linkedin.com/in/yairmahfud)
+- Email: yairthfc@gmail.com  
+- LinkedIn: [linkedin.com/in/yairmahfud](https://www.linkedin.com/in/yairmahfud)
